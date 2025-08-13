@@ -1,0 +1,19 @@
+# Build output
+/target/
+/bin/
+/build/
+
+# Eclipse / STS / IntelliJ
+/.project
+/.classpath
+/.settings/
+/.springBeans
+/.apt_generated
+/.factorypath
+/.idea/
+*.iml
+
+# OS / logs
+.DS_Store
+Thumbs.db
+*.log
