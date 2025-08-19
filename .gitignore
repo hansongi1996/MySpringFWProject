@@ -16,4 +16,7 @@
 # OS / logs
 .DS_Store
 Thumbs.db
-*.log
+*.log/target/
+.settings/
+.classpath
+.project
